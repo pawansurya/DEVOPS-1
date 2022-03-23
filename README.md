@@ -42,9 +42,9 @@
 - False :heavy_check_mark: 
  
 **8. which Command is used to switch to root user?**
-- su -i :heavy_check_mark: 
+- su -i 
 - sudo -su username
-- sudo -i
+- sudo -i :heavy_check_mark:
 - su username
  
 **9. Command to know the size of Particular Directory?**
